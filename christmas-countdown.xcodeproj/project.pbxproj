@@ -11,6 +11,7 @@
 		116A23AE25D1AFFA0008B25F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 116A23AD25D1AFFA0008B25F /* ContentView.swift */; };
 		116A23B025D1AFFB0008B25F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 116A23AF25D1AFFB0008B25F /* Assets.xcassets */; };
 		116A23B325D1AFFB0008B25F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 116A23B225D1AFFB0008B25F /* Preview Assets.xcassets */; };
+		116A23BC25D1B2600008B25F /* Kingthings Christmas 2.2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 116A23BB25D1B2600008B25F /* Kingthings Christmas 2.2.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		116A23AF25D1AFFB0008B25F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		116A23B225D1AFFB0008B25F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		116A23B425D1AFFB0008B25F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		116A23BB25D1B2600008B25F /* Kingthings Christmas 2.2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Kingthings Christmas 2.2.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				116A23AB25D1AFFA0008B25F /* christmas_countdownApp.swift */,
 				116A23AD25D1AFFA0008B25F /* ContentView.swift */,
 				116A23AF25D1AFFB0008B25F /* Assets.xcassets */,
+				116A23BB25D1B2600008B25F /* Kingthings Christmas 2.2.ttf */,
 				116A23B425D1AFFB0008B25F /* Info.plist */,
 				116A23B125D1AFFB0008B25F /* Preview Content */,
 			);
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				116A23B325D1AFFB0008B25F /* Preview Assets.xcassets in Resources */,
+				116A23BC25D1B2600008B25F /* Kingthings Christmas 2.2.ttf in Resources */,
 				116A23B025D1AFFB0008B25F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
